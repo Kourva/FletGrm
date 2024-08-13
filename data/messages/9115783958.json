@@ -1,0 +1,124 @@
+[
+    {
+        "role": "self",
+        "message": "What are your plans for the weekend?",
+        "time": "3:15 PM",
+        "seen": true
+    },
+    {
+        "role": "partner",
+        "message": "I'm thinking of going hiking if the weather's nice.",
+        "time": "3:15 PM",
+        "seen": true
+    },
+    {
+        "role": "self",
+        "message": "That sounds fun! Which trail do you have in mind?",
+        "time": "3:17 PM",
+        "seen": true
+    },
+    {
+        "role": "system",
+        "time": "August 12"
+    },
+    {
+        "role": "partner",
+        "message": "Maybe the one at Pine Hill Park. The views are amazing!",
+        "time": "3:17 PM",
+        "seen": true
+    },
+    {
+        "role": "self",
+        "message": "Have you tried any new recipes lately?",
+        "time": "3:19 PM",
+        "seen": true
+    },
+    {
+        "role": "partner",
+        "message": "Yes! I made homemade pasta last week; it was a hit!",
+        "time": "3:19 PM",
+        "seen": true
+    },
+    {
+        "role": "self",
+        "message": "Wow, that sounds delicious! What's your favorite dish to make?",
+        "time": "3:21 PM",
+        "seen": true
+    },
+    {
+        "role": "system",
+        "time": "July 15"
+    },
+    {
+        "role": "partner",
+        "message": "I love making risotto. It takes time but is so worth it.",
+        "time": "3:21 PM",
+        "seen": true
+    },
+    {
+        "role": "self",
+        "message": "Any good books you've read recently?",
+        "time": "3:23 PM",
+        "seen": true
+    },
+    {
+        "role": "partner",
+        "message": "Yes! I just finished 'The Night Circus'. It was enchanting.",
+        "time": "3:23 PM",
+        "seen": true
+    },
+    {
+        "role": "self",
+        "message": "What's your favorite season and why?",
+        "time": "3:25 PM",
+        "seen": true
+    },
+    {
+        "role": "partner",
+        "message": "I love autumn. The colors are beautiful, and it's cozy.",
+        "time": "3:25 PM",
+        "seen": true
+    },
+    {
+        "role": "self",
+        "message": "Are you planning any trips this year?",
+        "time": "3:27 PM",
+        "seen": true
+    },
+    {
+        "role": "partner",
+        "message": "Yes! I'm hoping to visit Italy next spring.",
+        "time": "3:27 PM",
+        "seen": true
+    },
+    {
+        "role": "self",
+        "message": "That sounds amazing! Any specific places you want to see?",
+        "time": "3:29 PM",
+        "seen": true
+    },
+    {
+        "role": "partner",
+        "message": "Definitely Rome and Florence. Their history is fascinating!",
+        "time": "3:29 PM",
+        "seen": true
+    },
+    {
+        "role": "self",
+        "message": "How about music? Any concerts you're excited about?",
+        "time": "3:31 PM",
+        "seen": true
+    },
+    {
+        "role": "partner",
+        "message": "I'm looking forward to seeing Coldplay next month!",
+        "time": "3:31 PM",
+        "seen": true
+    },
+    {
+        "role": "self",
+        "message": "Did you catch the latest episode of that show we were watching?",
+        "time": "3:33 PM",
+        "seen": false
+    }
+]

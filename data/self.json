@@ -1,0 +1,51 @@
+{
+    "phone_number": "867 548 3889",
+    "profile": "https://i.pravatar.cc/150?u=188294156",
+    "username": "Kourva",
+    "name": "Kozyol",
+    "id": "188294156",
+    "birth": null,
+    "status": "Online",
+    "bio": "FletGrm Developer",
+    "has_story": false,
+    "channel": {
+        "profile": null,
+        "subscribers": "12k subscribers",
+        "name": "FletGrm Dev",
+        "last_time": "2:30 PM",
+        "last_message": "Making Telegram in Python is great if you use Flet!"
+    },
+    "chat": {
+        "profile": null,
+        "username": null,
+        "name": null,
+        "id": null,
+        "phone_number": null,
+        "birth": null,
+        "status": null,
+        "folder": "All Chats",
+        "bio": null,
+        "has_story": null,
+        "channel": null
+    },
+    "last_page":null,
+    "logged_accounts": [
+        {
+            "profile": "https://i.pravatar.cc/150?u=188294156",
+            "id": "188294156",
+            "name": "Kozyol",
+            "unread": null
+        },
+        {
+            "profile": "https://i.pravatar.cc/150?u=621728905",
+            "id": "621728905",
+            "name": "Kourva",
+            "unread": "4"
+        }
+    ],
+    "folders": [
+        "All Chats",
+        "Important",
+        "Bots"
+    ]
+}

@@ -1,0 +1,148 @@
+[
+    {
+        "role": "self",
+        "message": "What's the weather like today?",
+        "time": "11:30 AM",
+        "seen": true
+    },
+    {
+        "role": "partner",
+        "message": "Looks sunny! Perfect for a picnic.",
+        "time": "11:30 AM",
+        "seen": true
+    },
+    {
+        "role": "self",
+        "message": "Have you seen any good movies lately?",
+        "time": "11:32 AM",
+        "seen": true
+    },
+    {
+        "role": "system",
+        "time": "August 9"
+    },
+    {
+        "role": "partner",
+        "message": "Yeah, I just watched 'Inception'. It was mind-blowing!",
+        "time": "11:32 AM",
+        "seen": true
+    },
+    {
+        "role": "self",
+        "message": "Reading anything interesting?",
+        "time": "11:34 AM",
+        "seen": true
+    },
+    {
+        "role": "partner",
+        "message": "I started a thriller called 'The Silent Patient'. Can't put it down!",
+        "time": "11:34 AM",
+        "seen": true
+    },
+    {
+        "role": "self",
+        "message": "What do you want for dinner?",
+        "time": "11:36 AM",
+        "seen": true
+    },
+    {
+        "role": "system",
+        "time": "July 10"
+    },
+    {
+        "role": "partner",
+        "message": "How about some sushi? I’ve been craving it!",
+        "time": "11:36 AM",
+        "seen": true
+    },
+    {
+        "role": "self",
+        "message": "If you could visit anywhere in the world, where would it be?",
+        "time": "11:38 AM",
+        "seen": true
+    },
+    {
+        "role": "partner",
+        "message": "I'd love to explore Japan. The culture seems fascinating.",
+        "time": "11:38 AM",
+        "seen": true
+    },
+    {
+        "role": "self",
+        "message": "Heard any new songs you like?",
+        "time": "11:40 AM",
+        "seen": true
+    },
+    {
+        "role": "partner",
+        "message": "Yes! I'm obsessed with the latest album by Taylor Swift.",
+        "time": "11:40 AM",
+        "seen": true
+    },
+    {
+        "role": "self",
+        "message": "Picked up any new hobbies lately?",
+        "time": "11:42 AM",
+        "seen": true
+    },
+    {
+        "role": "partner",
+        "message": "I started painting! It’s so relaxing.",
+        "time": "11:42 AM",
+        "seen": true
+    },
+    {
+        "role": "self",
+        "message": "What do you think about the newest smartphone release?",
+        "time": "11:44 AM",
+        "seen": true
+    },
+    {
+        "role": "partner",
+        "message": "It has some cool features, but I’m happy with my current one.",
+        "time": "11:44 AM",
+        "seen": true
+    },
+    {
+        "role": "self",
+        "message": "Do you think you'll get a pet someday?",
+        "time": "11:46 AM",
+        "seen": true
+    },
+    {
+        "role": "partner",
+        "message": "Definitely! I want a dog—maybe a Golden Retriever.",
+        "time": "11:46 AM",
+        "seen": true
+    },
+    {
+        "role": "self",
+        "message": "Did you catch the game last night?",
+        "time": "11:48 AM",
+        "seen": true
+    },
+    {
+        "role": "partner",
+        "message": "Yes! That last-minute goal was insane!",
+        "time": "11:48 AM",
+        "seen": true
+    },
+    {
+        "role": "self",
+        "message": "Any fashion trends you’re loving right now?",
+        "time": "11:50 AM",
+        "seen": true
+    },
+    {
+        "role": "partner",
+        "message": "I’m really into oversized jackets this season.",
+        "time": "11:50 AM",
+        "seen": true
+    },
+    {
+        "role": "self",
+        "message": "How's your fitness routine going? You did it?",
+        "time": "11:52 AM",
+        "seen": false
+    }
+]

@@ -1,0 +1,32 @@
+{
+    "normal": [
+        {
+            "app_bar": "#243140",
+            "gradient": ["#243140", "#253342"],
+            "button": "#52b4ff",
+            "channel_label": "#52b4ff",
+            "subscribers_bg": "#2252b4ff",
+            "subscribers_fg": "#52b4ff",
+            "info": "#52b4ff",
+            "qrcode": "#52b4ff",
+            "switch_active": "#52b4ff",
+            "switch_thumb": "#0f212f",
+            "switch_track": "#306a96"
+        }
+    ],
+    "premium": [
+        {
+            "app_bar": "#b5443c",
+            "gradient": ["#b5443c", "#7a3830"],
+            "button": "#b5443c",
+            "channel_label": "#e6695b",
+            "subscribers_bg": "#22952424",
+            "subscribers_fg": "#ee6d5e",
+            "info": "#ee6d5e",
+            "qrcode": "#ee6d5e",
+            "switch_active": "#ee6d5e",
+            "switch_thumb": "#341815",
+            "switch_track": "#7a3830"
+        }
+    ]
+}
