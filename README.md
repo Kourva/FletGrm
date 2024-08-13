@@ -36,4 +36,8 @@
 + add premuim stuff
 + add channel and groups page
 + add multiple story border
++ add light theme and make config file for all colors used in app
 + and more...
+
+# Issues
++ scroll not working on tabs in menu.
