@@ -1,5 +1,5 @@
 <div align="center">
-    <img align="center" src="https://raw.githubusercontent.com/kozyol/FletGrm/main/assets/icon.png" width=90 />
+    <img align="center" src="https://raw.githubusercontent.com/Kourva/FletGrm/main/assets/icon.png" width=90 />
     <h3><b>FletGrm</b></h3>
     <p>Telegram UI in Flet</p>
     <kbd>#Flet #Python #Telegram</kbd>
@@ -8,7 +8,7 @@
 # Installation
 1. **Clone repository**:
     ```bash
-    git clone https://github.com/kozyol/FletGrm
+    git clone https://github.com/Kourva/FletGrm
     ```
 2. **Install flet**:
     ```bash
