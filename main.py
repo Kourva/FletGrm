@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # FletGrm : Telegram made with Flet
-# Source  : https://github.com/kozyol/FletGrm
+# Source  : https://github.com/Kourva/FletGrm
 
 # Standard Libraries
 from typing import NoReturn, Dict, Any
